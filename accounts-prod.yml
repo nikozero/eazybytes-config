@@ -1,0 +1,12 @@
+
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related prod APIs "
+  contactDetails:
+    name: "Diego carabali Ulloa - Product Owner"
+    email: "diegodgt02@gmail.com"
+  onCallSupport:
+    - 3183547738
+    - 3015253378      

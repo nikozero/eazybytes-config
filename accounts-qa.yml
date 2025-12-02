@@ -1,0 +1,12 @@
+
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related QA APIs "
+  contactDetails:
+    name: "Diego carabali Ulloa - QA Lead"
+    email: "diegodgt02@gmail.com"
+  onCallSupport:
+    - 3183547738
+    - 3015253378      
