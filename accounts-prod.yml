@@ -6,7 +6,7 @@ accounts:
   message: "Welcome to EazyBank accounts related prod APIs "
   contactDetails:
     name: "Diego carabali Ulloa - Product Owner"
-    email: "diegodgt02@gmail.com"
+    email: "{cipher}b910a8368644efadd17415b7e4c1469c39447b4a5898d9f986feefb22e4deba75c60c0ebd6e53a45977fc3f5ab966339"
   onCallSupport:
     - 3183547738
     - 3015253378      
