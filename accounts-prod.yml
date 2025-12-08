@@ -3,7 +3,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related webhook APIs "
+  message: "Welcome to EazyBank accounts related prod APIs "
   contactDetails:
     name: "Diego carabali Ulloa - Product Owner"
     email: "{cipher}b910a8368644efadd17415b7e4c1469c39447b4a5898d9f986feefb22e4deba75c60c0ebd6e53a45977fc3f5ab966339"
