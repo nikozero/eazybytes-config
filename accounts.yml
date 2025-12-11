@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related local APIs "
+  message: "Welcome to EazyBank accounts related local 1 APIs "
   contactDetails:
     name: "Diego carabali Ulloa - Developer"
     email: "diegodgt02@gmail.com"
